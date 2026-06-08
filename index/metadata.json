@@ -1,6 +1,19 @@
 {
   "entries": [
     {
+      "slug": "2026-06-05-4-gtm-frameworks-focused-execution",
+      "source": "gtm-strategist",
+      "date": "2026-06-05",
+      "title": "4 GTM Frameworks for Focused Execution",
+      "type": "framework",
+      "audience": "GTM leader, founder, RevOps leader, VP of Sales, CMO",
+      "tags": ["gtm-frameworks", "icp", "positioning", "execution", "beachhead-segment", "gtm-blueprint", "prioritization", "planning"],
+      "concepts": ["GTM Power Hour", "Market Problem Map", "beachhead segment", "Differentiated Positioning Workflow", "GTM Blueprint", "value vs effort matrix", "inside/outside view", "focus over output", "living roadmap"],
+      "summary": "Four workshop-based GTM frameworks tested across 12,000+ companies: GTM Power Hour (foundational plan in 60 min), Market Problem Map (beachhead segment scoring across pain/reach/simplicity), Differentiated Positioning Workflow (5-stage process from competitive alternatives to proof-backed positioning), GTM Blueprint (reverse-engineer quarterly execution using value vs. effort prioritization). Core principle: your edge is focus and proprietary insight, not more output. Plans beyond 6 months are fiction.",
+      "url": "https://knowledge.gtmstrategist.com/p/4-gtm-frameworks-for-focused-execution",
+      "file": "corpus/gtm-strategist/2026-06-05-4-gtm-frameworks-focused-execution.md"
+    },
+    {
       "slug": "2026-06-03-repeating-what-isnt-working-gtm-motion-decay",
       "source": "selling-signals",
       "date": "2026-06-03",
@@ -80,5 +93,5 @@
     }
   ],
   "last_updated": "2026-06-08T00:00:00",
-  "total": 6
+  "total": 7
 }
