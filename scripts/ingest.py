@@ -148,6 +148,7 @@ def update_index(meta: dict, source: str, slug: str, file_path: Path):
         "tags": meta.get("tags", []),
         "concepts": meta.get("concepts", []),
         "summary": meta["summary"],
+        "url": meta.get("url"),
         "file": str(file_path.relative_to(ROOT)),
     }
 

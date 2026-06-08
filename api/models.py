@@ -44,6 +44,7 @@ class CorpusEntry(BaseModel):
     tags: list[str]
     concepts: list[str]
     summary: str
+    url: Optional[str] = None
     file: str
 
 
