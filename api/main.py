@@ -32,13 +32,15 @@ app = FastAPI(
 _explicit_origins = [
     "http://localhost:3000",
     "http://localhost:5173",
+    "http://localhost:5174",
+    "http://localhost:5175",
     os.getenv("FRONTEND_URL", ""),
 ]
 
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[o for o in _explicit_origins if o],
-    allow_origin_regex=r"https://.*\.(lovable\.app|lovableproject\.com)",
+    allow_origin_regex=r"https://.*\.(lovable\.app|lovableproject\.com|vercel\.app)",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
