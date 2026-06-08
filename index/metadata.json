@@ -1,6 +1,19 @@
 {
   "entries": [
     {
+      "slug": "2026-06-03-repeating-what-isnt-working-gtm-motion-decay",
+      "source": "selling-signals",
+      "date": "2026-06-03",
+      "title": "The Most Expensive GTM Mistake Is Repeating What Isn't Working",
+      "type": "strategic",
+      "audience": "GTM leader, VP of Sales, CMO, RevOps leader",
+      "tags": ["gtm-motion", "optimization-theater", "signal-decay", "win-loss", "buyer-momentum", "positioning", "pipeline-health"],
+      "concepts": ["motion decay", "optimization theater", "activity vs momentum", "objection patterns", "buyer priority shift", "execution vs positioning diagnosis", "GTM assumption testing"],
+      "summary": "Teams repeat broken GTM motions because past success makes a strategy feel safer than it is. The diagnosis is separating execution problems from positioning problems — the same objections recurring despite strong execution signals a strategy issue, not an effort issue. Optimization theater (tweaking subject lines, CTAs, targeting) can't fix a motion that no longer fits the market. The right question isn't 'how do we improve this?' but 'is this still the right thing to improve?'",
+      "url": "https://link.nl.technologyadvice.com/public/selling-signals-2026-06-03",
+      "file": "corpus/selling-signals/2026-06-03-repeating-what-isnt-working-gtm-motion-decay.md"
+    },
+    {
       "slug": "2026-06-08-ai-led-gtm-reinvention-oar-matrix-four-buying-lanes",
       "source": "gtm-strategist",
       "date": "2026-06-08",
@@ -67,5 +80,5 @@
     }
   ],
   "last_updated": "2026-06-08T00:00:00",
-  "total": 5
+  "total": 6
 }
