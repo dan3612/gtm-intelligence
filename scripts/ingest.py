@@ -59,7 +59,7 @@ def extract_with_claude(raw_text: str, source: str) -> dict:
     client = anthropic.Anthropic()
 
     message = client.messages.create(
-        model="claude-opus-4-5",
+        model="claude-sonnet-4-6",
         max_tokens=4096,
         messages=[
             {

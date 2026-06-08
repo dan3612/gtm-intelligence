@@ -45,9 +45,13 @@ async def query_corpus(request: QueryRequest):
 
     try:
         message = client.messages.create(
-            model="claude-opus-4-5",
+            model="claude-sonnet-4-6",
             max_tokens=2048,
-            system=QUERY_SYSTEM_PROMPT,
+            system=[{
+                "type": "text",
+                "text": QUERY_SYSTEM_PROMPT,
+                "cache_control": {"type": "ephemeral"},
+            }],
             messages=[{"role": "user", "content": user_prompt}],
         )
         answer = message.content[0].text

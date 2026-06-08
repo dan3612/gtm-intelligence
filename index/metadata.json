@@ -1,5 +1,18 @@
 {
-  "entries": [],
-  "last_updated": null,
-  "total": 0
+  "entries": [
+    {
+      "slug": "2026-06-08-ai-led-gtm-reinvention-oar-matrix-four-buying-lanes",
+      "source": "gtm-strategist",
+      "date": "2026-06-08",
+      "title": "AI-Led GTM Reinvention: The OAR Matrix and the Four Buying Lanes",
+      "type": "strategic",
+      "audience": "GTM leader, RevOps leader, VP of Sales, CMO",
+      "tags": ["ai-gtm", "revops", "buyer-experience", "se-bottleneck", "oar-matrix", "sales-velocity"],
+      "concepts": ["OAR Matrix", "AI-led growth", "SE bottleneck", "four buying lanes", "human-AI harmony", "GTM reinvention", "AE to SE ratio", "internal deal friction"],
+      "summary": "The standard SaaS GTM playbook was built for 2018 and is structurally broken for 2026. The OAR Matrix (Optimize, Amplify, Reinvent) helps GTM leaders place AI correctly, and 75% of deal friction is internal — not from buyers. Within 18 months, every company will land in one of four buying lanes ranging from human-only to AI-to-AI.",
+      "file": "corpus/gtm-strategist/2026-06-08-ai-led-gtm-reinvention-oar-matrix-four-buying-lanes.md"
+    }
+  ],
+  "last_updated": "2026-06-08T00:00:00",
+  "total": 1
 }
