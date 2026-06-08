@@ -14,20 +14,6 @@
       "file": "corpus/gtm-strategist/2026-06-08-ai-led-gtm-reinvention-oar-matrix-four-buying-lanes.md"
     },
     {
-      "slug": "2026-05-28-more-data-isnt-creating-more-clarity",
-      "source": "selling-signals",
-      "date": "2026-05-28",
-      "title": "More Data Isn't Creating More Clarity",
-      "type": "strategic",
-      "audience": "GTM leader, RevOps leader, VP of Sales, CRO",
-      "tags": ["signal-fragmentation", "alignment", "buyer-signals", "ai-adoption", "gtm-coordination", "pipeline-quality"],
-      "concepts": ["signal alignment", "buyer discovery compression", "AI fragmentation", "cross-functional coordination", "pipeline quality", "shared organizational judgment"],
-      "summary": "GTM teams aren't struggling from lack of data — they're struggling because signal interpretation is fragmenting faster than orgs can coordinate. AI-referred buyers arrive pre-educated before entering any observable funnel. Efficient growth comes from system alignment, not activity volume.",
-      "url": "https://link.nl.technologyadvice.com/public/45920746",
-      "file": "corpus/selling-signals/2026-05-28-more-data-isnt-creating-more-clarity.md"
-    }
-  ],
-    {
       "slug": "2026-05-29-how-to-rank-1-in-chatgpt-aeo-guide",
       "source": "gtm-strategist",
       "date": "2026-05-29",
@@ -39,8 +25,34 @@
       "summary": "Only 14% of marketers feel confident in their AEO strategy despite AI assistants becoming the primary B2B discovery layer. The six pillars of AI search visibility: topic depth, publishing velocity, content structure, crawl efficiency, content monitoring, and brand perception. AI-referred traffic converts better — making AEO a pipeline quality issue, not just a marketing one.",
       "url": "https://knowledge.gtmstrategist.com/p/how-to-rank-1-in-chatgpt-your-guide",
       "file": "corpus/gtm-strategist/2026-05-29-how-to-rank-1-in-chatgpt-aeo-guide.md"
+    },
+    {
+      "slug": "2026-05-28-more-data-isnt-creating-more-clarity",
+      "source": "selling-signals",
+      "date": "2026-05-28",
+      "title": "More Data Isn't Creating More Clarity",
+      "type": "strategic",
+      "audience": "GTM leader, RevOps leader, VP of Sales, CRO",
+      "tags": ["signal-fragmentation", "alignment", "buyer-signals", "ai-adoption", "gtm-coordination", "pipeline-quality"],
+      "concepts": ["signal alignment", "buyer discovery compression", "AI fragmentation", "cross-functional coordination", "pipeline quality", "shared organizational judgment"],
+      "summary": "GTM teams aren't struggling from lack of data — they're struggling because signal interpretation is fragmenting faster than orgs can coordinate. AI-referred buyers arrive pre-educated before entering any observable funnel. Efficient growth comes from system alignment, not activity volume.",
+      "url": "https://link.nl.technologyadvice.com/public/45920746",
+      "file": "corpus/selling-signals/2026-05-28-more-data-isnt-creating-more-clarity.md"
+    },
+    {
+      "slug": "2026-05-01-content-engineering-ai-gtm-system-claude-code",
+      "source": "gtm-strategist",
+      "date": "2026-05-01",
+      "title": "Content Engineering: How to Build a Content System in Claude Code",
+      "type": "framework",
+      "audience": "GTM leader, CMO, Marketing Ops, RevOps leader, Content Strategist",
+      "tags": ["content-engineering", "ai-content", "claude-code", "aeo", "gtm-system", "sales-intelligence", "knowledge-architecture"],
+      "concepts": ["sophisticated slop", "knowledge foundation", "context scoping", "signal-to-output workflow", "GTM maturity model", "call analyzer", "content pipeline", "ICP architecture"],
+      "summary": "90% of AI content quality comes from what you feed the system, not pipeline complexity. The fix is a five-file knowledge foundation (icp.md, personas.md, positioning.md, voice-guide.md, competitive-landscape.md) fed by sales call intelligence. One transcript generates SEO articles, LinkedIn posts, ABM personalization, and product insights through a six-stage pipeline with a human review gate.",
+      "url": "https://knowledge.gtmstrategist.com/p/content-engineering-how-to-build-content-system-in-claude-code",
+      "file": "corpus/gtm-strategist/2026-05-01-content-engineering-ai-gtm-system-claude-code.md"
     }
   ],
   "last_updated": "2026-06-08T00:00:00",
-  "total": 3
+  "total": 4
 }
