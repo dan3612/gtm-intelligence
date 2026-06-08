@@ -14,6 +14,19 @@
       "file": "corpus/gtm-strategist/2026-06-05-4-gtm-frameworks-focused-execution.md"
     },
     {
+      "slug": "2026-06-04-gtm-handoff-problem-ai-layer",
+      "source": "selling-signals",
+      "date": "2026-06-04",
+      "title": "Your GTM Team Has a Handoff Problem",
+      "type": "strategic",
+      "audience": "GTM leader, RevOps leader, VP of Sales, CMO",
+      "tags": ["handoffs", "ai-gtm", "crm-data-quality", "prospecting", "attribution", "operating-model", "signal-to-action", "gtm-efficiency"],
+      "concepts": ["handoff elimination", "AI context layer", "GTM knowledge graph", "decision logic documentation", "data quality amplification", "friction removal", "insight-to-execution gap", "natural language prospecting"],
+      "summary": "GTM vendors are no longer trying to improve handoffs — they're trying to remove them. OpenAI embedded ZoomInfo's GTM Context Graph into Codex; Apollo brought prospecting into Perplexity; McKinsey shows growth leaders building operating models with less friction between insight and execution. Bad CRM data becomes everyone's problem faster in AI-first workflows. Document decision logic before automating — AI amplifies existing systems, good and bad. The companies that win will need the fewest handoffs, not the most aligned teams.",
+      "url": "https://link.nl.technologyadvice.com/public/selling-signals-2026-06-04",
+      "file": "corpus/selling-signals/2026-06-04-gtm-handoff-problem-ai-layer.md"
+    },
+    {
       "slug": "2026-06-03-repeating-what-isnt-working-gtm-motion-decay",
       "source": "selling-signals",
       "date": "2026-06-03",
@@ -93,5 +106,5 @@
     }
   ],
   "last_updated": "2026-06-08T00:00:00",
-  "total": 7
+  "total": 8
 }
