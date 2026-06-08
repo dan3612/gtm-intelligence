@@ -14,7 +14,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from api.models import HealthCheck
-from api.routes import query, hubspot, salesforce
+from api.routes import query, hubspot, salesforce, deploy
 from rag.retriever import get_index_stats
 
 # ── App ───────────────────────────────────────────────────────────────────────
@@ -51,6 +51,7 @@ app.add_middleware(
 app.include_router(query.router, tags=["Knowledge Base"])
 app.include_router(hubspot.router)
 app.include_router(salesforce.router)
+app.include_router(deploy.router)
 
 
 # ── Health check ──────────────────────────────────────────────────────────────

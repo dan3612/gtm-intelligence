@@ -123,6 +123,43 @@ class HealthScoreResponse(BaseModel):
     results: list[HealthScoreResult]
 
 
+# ── HubSpot Deploy ────────────────────────────────────────────────────────────
+
+class HubSpotConnectRequest(BaseModel):
+    api_key: str
+    object_type: str = Field("contacts", description="contacts | companies | both")
+    limit: int = Field(500, ge=10, le=2000)
+
+
+class HubSpotConnectResponse(BaseModel):
+    portal_id: str
+    hub_domain: str
+    records_fetched: int
+    object_type: str
+
+
+class DeployPreview(BaseModel):
+    tool: str
+    records_analyzed: int
+    changes_found: int
+    summary: str
+    preview_data: Any
+
+
+class HubSpotApplyRequest(BaseModel):
+    api_key: str
+    tool: str
+    object_type: str
+    confirmed_changes: list[dict[str, Any]]
+
+
+class HubSpotApplyResponse(BaseModel):
+    tool: str
+    records_updated: int
+    errors: list[str]
+    summary: str
+
+
 # ── General ───────────────────────────────────────────────────────────────────
 
 class HealthCheck(BaseModel):
