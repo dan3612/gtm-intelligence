@@ -1,6 +1,19 @@
 {
   "entries": [
     {
+      "slug": "2026-06-12-science-of-scaling",
+      "source": "gtm-strategist",
+      "date": "2026-06-12",
+      "title": "You're Probably Scaling at the Wrong Time and Speed",
+      "type": "framework",
+      "audience": "GTM leader, founder, RevOps leader, VP of Sales, CRO",
+      "tags": ["scaling", "product-market-fit", "gtm-fit", "unit-economics", "retention", "cadence", "hiring", "pipeline-health", "revenue-operations"],
+      "concepts": ["Leading Indicator of Retention", "LIR", "Go-to-Market Fit", "Stay-Go-Slow", "payback period", "LTV/CAC", "Magic Number", "PMF measurement", "operational cadence", "scaling pace"],
+      "summary": "Half of founders scale too early, half too late — both destroy value. Three frameworks: (1) PMF measured by retention >90%, operationalized via a Leading Indicator of Retention (LIR) with P/E/T variables; (2) GTMF measured by payback <12mo, LTV/CAC >3, Magic Number >1.0 — decompose these lagging metrics into 4-6 weekly leading inputs; (3) Stay-Go-Slow quarterly cadence replacing annual headcount plans with data-gated GO/STAY/SLOW decisions. Scale is a pace, not an event — optimal pace is the fastest speed that maintains PMF and GTMF without breaking either.",
+      "url": "https://knowledge.gtmstrategist.com/p/science-of-scaling",
+      "file": "corpus/gtm-strategist/2026-06-12-science-of-scaling.md"
+    },
+    {
       "slug": "2026-06-11-gtm-advantage-is-moving",
       "source": "selling-signals",
       "date": "2026-06-11",
@@ -145,5 +158,5 @@
     }
   ],
   "last_updated": "2026-06-11T00:00:00",
-  "total": 11
+  "total": 12
 }
