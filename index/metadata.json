@@ -1,6 +1,19 @@
 {
   "entries": [
     {
+      "slug": "2026-06-11-gtm-advantage-is-moving",
+      "source": "selling-signals",
+      "date": "2026-06-11",
+      "title": "The GTM Advantage Is Moving",
+      "type": "strategic",
+      "audience": "GTM leader, RevOps leader, CMO, VP of Sales, Marketing Ops",
+      "tags": ["b2b-discovery", "creator-economy", "ai-recommendations", "aeo", "dark-social", "third-party-influence", "content-strategy", "pipeline-attribution", "buyer-journey"],
+      "concepts": ["discovery fragmentation", "creator-led distribution", "third-party trust", "AI citation patterns", "buyer self-education", "dark social", "influence attribution", "content purpose vs volume", "pre-funnel discovery", "RevOps tracking"],
+      "summary": "B2B buyer discovery has shifted to channels brands don't control — creators, AI recommendations, review sites, and third-party sources. LinkedIn's creator marketplace signals that trusted individuals are becoming a primary distribution channel. ChatGPT rarely cites vendor-owned websites when recommending B2B SaaS. Content volume is not a strategy — purpose is. RevOps implications: track creator influence on pipeline, capture buyer-reported discovery sources in every deal, and connect content reporting to opportunity progression rather than publishing volume.",
+      "url": "https://link.nl.technologyadvice.com/public/selling-signals-2026-06-11",
+      "file": "corpus/selling-signals/2026-06-11-gtm-advantage-is-moving.md"
+    },
+    {
       "slug": "2026-06-11-custom-account-scoring-ai-model",
       "source": "default",
       "date": "2026-06-11",
@@ -132,5 +145,5 @@
     }
   ],
   "last_updated": "2026-06-11T00:00:00",
-  "total": 10
+  "total": 11
 }
